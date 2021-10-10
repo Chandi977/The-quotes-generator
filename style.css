@@ -53,6 +53,17 @@ body {
     text-align: right;
 }
 
+.foot {
+    position: absolute;
+    top: 90vh;
+    width: 100%;
+    height: auto;
+}
+
+.foot .copyright {
+    text-align: center;
+}
+
 @media only screen and (max-width: 320px) {
     .home_content {
         left: 2vw;
